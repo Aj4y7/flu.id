@@ -1,4 +1,4 @@
-# High-Performance Fluid Simulation
+# flu.id
 
 <p align="center">
   <img src="sim.gif" width="500" alt="Fluid Simulation Demo">
