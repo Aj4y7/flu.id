@@ -1,6 +1,8 @@
 # High-Performance Fluid Simulation
 
-![Fluid Simulation Demo](sim.gif)
+<p align="center">
+  <img src="sim.gif" width="600" alt="Fluid Simulation Demo">
+</p>
 
 A real-time, grid-based 2D fluid simulation written in C++. This project is heavily influenced by Jos Stam's seminal paper, *Real-Time Fluid Dynamics for Games* (GDC 2003), which forms the mathematical backbone of the entire engine. My main goal was to understand Stam's unconditionally stable solver for incompressible fluids, and then engineer the application to handle massive, high-resolution grids without dropping below 60 FPS.
 
