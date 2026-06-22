@@ -1,7 +1,7 @@
 # flu.id
 
 <p align="center">
-  <img src="simOp.gif" width="400" alt="Fluid Simulation Demo">
+  <img src="simn.gif" width="200" alt="Fluid Simulation Demo">
 </p>
 
 Real‑time 2D fluid simulation on a grid, written in C++. The solver is built on Jos Stam's 2003 paper -- stable, well‑understood, and a solid starting point. The main challenge was making it scale. With some targeted optimizations, it runs 256×256 grids at a consistent 60 FPS on a single machine.
