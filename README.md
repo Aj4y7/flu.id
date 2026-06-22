@@ -27,3 +27,12 @@ mkdir build && cd build
 cmake ..
 make -j$(nproc)
 ./fluid
+```
+
+## Controls
+
+- **Click and drag** – injects dye and velocity. The injection rate scales with mouse speed, which feels natural.
+
+## References
+
+- *Real‑Time Fluid Dynamics for Games*, Jos Stam (GDC 2003)
